@@ -1,4 +1,4 @@
-Stock Price Prediction Using LSTM Algorithm (AMZN and CSCO)
+**Stock Price Prediction Using LSTM Algorithm (AMZN and CSCO)**
 
 Designed and developed a deep learning solution to forecast weekly stock prices by predicting the next Monday's closing price from the previous week's trading data (Monday–Friday). The project leveraged over 20 years of historical stock market data from **Amazon (AMZN)** and **Cisco Systems (CSCO)** sourced from Yahoo Finance. A complete time series forecasting pipeline was implemented, including data exploration, preprocessing, sequence generation, model development, and performance evaluation to produce reliable predictions from real-world financial data.
 
